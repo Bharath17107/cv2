@@ -1,0 +1,180 @@
+body
+{   
+   margin: 0%;
+    text-align: center;
+}
+.dvi1
+{
+   background-color: #E4F9F5;
+}
+span
+{
+   color: #66bfbf;
+   font-size: 1.25rem;
+   display:inline-block;
+}
+h1
+{
+   line-height: normal;
+   color: #11999e;
+   font-size: 70px;
+   margin:0 auto;
+   width: auto;
+   font-family: 'Sacramento', cursive;
+}
+h2
+{ 
+   margin-bottom: 5%;
+   font-weight: normal;
+   color: #009797;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3
+{
+   color: #11999e;
+}
+.profile
+{
+   width:50%;
+   margin: auto;
+   line-height: 2;
+   margin-bottom: 5%;
+}
+.skill-row
+{
+   width: 50%;
+   margin: auto;
+   text-align: left;
+   line-height: 2;
+   margin-bottom: 5%;
+}
+
+.hobbies
+{
+   width: 50%;  
+   margin: auto;
+   text-align: left;
+   line-height: 2;
+   margin-bottom: 4%;
+}
+.cloud1
+{ 
+   padding: 30px;
+   position:relative;
+   margin-left: 30%;
+   line-height: 2;
+}
+.cloud2
+{
+   position:absolute;   
+}
+.pho
+{
+   margin-top: 30px;
+   width: 20%;
+   height: 20%;
+}
+.img2
+{
+   width: 20%;
+   height: 20%;
+   float: left;
+   margin-right: 5%;
+}
+.hr2
+{  
+   margin-bottom: 3%;
+   margin-top: 5%;
+}
+.cricket
+{
+   width: 20%;
+   height: 20%;
+   float: right;
+   margin-left: 5%;
+}
+.end
+{
+   margin-top: 5%;
+   background-color:#66BFBF ;
+   padding: 50px 0 20px;
+}
+.para
+{
+   width: 50%;
+   margin: auto;
+}
+h3
+{
+   margin-left: 25%;
+}
+hr
+{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 4px;
+    width: 4%;
+    margin-bottom: 5%;
+}
+.h2
+{
+   margin-top: 6%;
+}
+.h4
+{
+   margin-bottom: 0%;
+}
+.end0
+{
+   margin-top: 3%;
+   margin-bottom: 4%;
+
+}
+.para2
+{
+   margin-bottom: 0%;
+}
+a
+{
+    color: #009797;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 0 10px;
+}
+a:hover
+{
+   color: #ffffff;
+}
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8;
+   -moz-border-radius: 8;
+   border-radius: 8px;
+   font-family: Georgia;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+ }
+ 
+ .btn:hover {
+   background: #30E3CD;
+   background-image: -webkit-linear-gradient(top, #30E3CD, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CD, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CD, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CD, #2BC4AD);
+   background-image: linear-gradient(to bottom, #30E3CD, #2BC4AD);
+   text-decoration: none;
+ }
+
+   
+   
+
+
+
